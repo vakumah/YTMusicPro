@@ -4,11 +4,27 @@
 
 Built with stability, privacy, and user experience in mind, this version (2.0.0) represents a complete overhaul with production-grade fixes and optimizations.
 
+**Developed with ❤️ for Music Lovers.**  
+**Status**: 🟢 Production Ready | **Version**: 2.0.0
+
+---
+
+## 📱 Previews
+
+<p align="center">
+  <img src="preview/preview1.jpg" width="30%" alt="Home Screen" />
+  <img src="preview/preview2.jpg" width="30%" alt="Player View" />
+  <img src="preview/preview3.jpg" width="30%" alt="Notification Controls" />
+</p>
+<p align="center">
+  <img src="preview/preview4.jpg" width="30%" alt="Lockscreen integration" />
+  <img src="preview/preview5.jpg" width="30%" alt="Error Page" />
+  <img src="preview/preview6.jpg" width="30%" alt="App Icon" />
+</p>
+
 ---
 
 ## ✨ Core Features
-
-### 🎧 Premium Experience
 - **Ad Blocking**: Multi-layer ad blocking (Network level + DOM-based) to remove interrupted listening and visual clutter.
 - **Background Playback**: Continue listening even when the app is minimized or the screen is locked, thanks to custom WebView visibility management.
 - **Rich Media Notifications**: Fully interactive notification bar with track info, album art, and precise playback controls.
@@ -89,5 +105,4 @@ This project is for educational purposes only. YouTube Music is a trademark of G
 
 ---
 
-**Developed with ❤️ for Music Lovers.**  
-**Status**: 🟢 Production Ready | **Version**: 2.0.0
+**Version**: 2.0.0
