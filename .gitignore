@@ -1,0 +1,18 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio files
+.idea/
+*.iml
+.cxx/
+local.properties
+.DS_Store
+
+# Signing files (Crucial for Public Repo)
+*.jks
+*.keystore
+*.p12
+
+# Build logs
+build_log*.txt
